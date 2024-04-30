@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a graduate student in an MS program in the Computer Science Engineering department (CSE) at [POSTECH](https://www.postech.ac.kr/), South Korea.
+I am a graduate student in an MS program in the Graudate School of Artificial Intelligence (GSAI) at [POSTECH](https://www.postech.ac.kr/), South Korea.
 My primary research interest is in low-level vison. I am also interested in video understanding using Large Language Model (LLM).
 I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in POSTECH, under supervision of Professor [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/).
 
@@ -143,7 +143,7 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 ## Education
 
 - [Pohang University of Science and Technology (POSTECH)](http://www.postech.ac.kr/), Pohang, Korea (Sep 2022 -- now)
-  - MS Student, Department of [Graudate School of Artificial Intelligence](https://ai.postech.ac.kr/)
+  - MS Student, [Graudate School of Artificial Intelligence](https://ai.postech.ac.kr/)
   - Advisor: Prof. [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/) 
   -	GPA: 4.05 / 4.3
 
@@ -152,7 +152,7 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
   -	GPA: 4.0 / 4.0
 
 - [Chung-Ang University)](https://www.cau.ac.kr/index.do), Pohang, Korea (Mar 2017 -- Feb 2022)
-  - B.S., Department of [School of Electrical and Electronics Engineering](https://e3home.cau.ac.kr/)	
+  - B.S., [School of Electrical and Electronics Engineering](https://e3home.cau.ac.kr/)	
   - Advisor: Prof. [Chang Ha Lee](http://prof.cau.ac.kr/~chlee/)
   - Honors: _Summa Cum Laude_
   -	GPA: 4.31 / 4.5
