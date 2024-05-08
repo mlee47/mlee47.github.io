@@ -49,6 +49,7 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 * * *
 
 ## Publications
+*   [Fine-Tuning Strategies for Weather Condition Shifts: A Comparative Analysis of Models Trained on Synthetic and Real Datasets](./assets/pdf/KIPS_C2024A0277F.pdf) [[pdf](./assets/pdf/KIPS_C2024A0277F.pdf)] Jungwoo Kim, **Min Jung Lee**, Suha Kwak, in _Annual Symposium of Korea Information Processing Society (ASK), 2024_.
 *   [Burst Image Super-Resolution with Base Frame Selection](./assets/pdf/CVPR24_Burst_shot_Image_Enhancement.pdf) [[pdf](./assets/pdf/CVPR24_Burst_shot_Image_Enhancement.pdf)] Sanghyun Kim*, **Min Jung Lee***, Woohyeok Kim, Deunsol Jung, Jaesung Rim, Sunghyun Cho, Minsu Cho, in _9<sup>th</sup> NTIRE in CVPR Workshop 2024_.
 *   [Base Frame Selection on Dynamically Exposed Burst](./assets/pdf/IPIU2024.pdf) [[pdf](./assets/pdf/IPIU2024.pdf)] \
   **Min Jung Lee**, Jongmin Lee, Sanghyun Kim, Sunghyun Cho, Minsu Cho, in _IPIU 2024_.

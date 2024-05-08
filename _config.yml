@@ -27,10 +27,10 @@ sidebar:
   - name: CV
     icon: <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><g fill="currentColor"><path d="M12.643 15C13.979 15 15 13.845 15 12.5V5H1v7.5C1 13.845 2.021 15 3.357 15h9.286zM5.5 7h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1 0-1zM.8 1a.8.8 0 0 0-.8.8V3a.8.8 0 0 0 .8.8h14.4A.8.8 0 0 0 16 3V1.8a.8.8 0 0 0-.8-.8H.8z"/></g></svg>
     # icon: <i class="fa fa-file-o"></i>
-    # link: assets/cv_JongminLee.pdf
+    link: assets/pdf/cv_base.pdf
   - name: LinkedIn
     icon: <i class="fab fa-linkedin"></i>
-    # link: https://www.linkedin.com/in/jongmin-lee-5a2249117/
+    link: https://www.linkedin.com/in/min-lee-3ba0751b0/
 
 # https://github.com/github/pages-gem/issues/399#issuecomment-301827749
 # When running locally, we run into the following error —
