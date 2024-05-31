@@ -17,7 +17,7 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 *   Burst Image Enhancement/Restoration
 *   Extremely Low-Light Image Enhancement
 *   Learning-based camera ISP
-*   Video summarization with LLM
+*   Video understanding with Large Language Models (LLMs)
 
 <!-- * * * -->
 
