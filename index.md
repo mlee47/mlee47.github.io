@@ -50,35 +50,11 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 
 ## Publications
 *   [Fine-Tuning Strategies for Weather Condition Shifts: A Comparative Analysis of Models Trained on Synthetic and Real Datasets](./assets/pdf/KIPS_C2024A0277F.pdf) [[pdf](./assets/pdf/KIPS_C2024A0277F.pdf)] Jungwoo Kim, **Min Jung Lee**, Suha Kwak, in _Annual Symposium of Korea Information Processing Society (ASK), 2024_.
-*   [Burst Image Super-Resolution with Base Frame Selection](./assets/pdf/CVPR24_Burst_shot_Image_Enhancement.pdf) [[pdf](./assets/pdf/CVPR24_Burst_shot_Image_Enhancement.pdf)] Sanghyun Kim\*, **Min Jung Lee**\*, Woohyeok Kim, Deunsol Jung, Jaesung Rim, Sunghyun Cho, Minsu Cho, in _9<sup>th</sup> NTIRE in CVPR Workshop 2024_.
+*   [Burst Image Super-Resolution with Base Frame Selection](./assets/pdf/CVPR24_Burst_shot_Image_Enhancement.pdf) [[project](https://postech-cvlab.github.io/Burst_FSN/) [link](https://www.arxiv.org/pdf/2406.17869)] Sanghyun Kim\*, **Min Jung Lee**\*, Woohyeok Kim, Deunsol Jung, Jaesung Rim, Sunghyun Cho, Minsu Cho, in _9<sup>th</sup> NTIRE in CVPR Workshop 2024_.
 *   [Base Frame Selection on Dynamically Exposed Burst](./assets/pdf/IPIU2024.pdf) [[pdf](./assets/pdf/IPIU2024.pdf)] \
   **Min Jung Lee**, Jongmin Lee, Sanghyun Kim, Sunghyun Cho, Minsu Cho, in _IPIU 2024_.
-*   [HSVNet: Reconstructing HDR Image from a Single Exposure LDR Image with CNN](https://doi.org/10.3390/app12052370) \
+*   [HSVNet: Reconstructing HDR Image from a Single Exposure LDR Image with CNN][[link](https://doi.org/10.3390/app12052370)] \
   **Min Jung Lee**, Chi-hyoung Rhee, Chang Ha Lee, in _Applied Sciences_ Feb 2022.
-
-<!-- *   [Learning Rotation-Equivariant Features for Visual Correspondence](https://arxiv.org/abs/2303.15472) [[code](https://github.com/bluedream1121/RELF)] \
-  **Jongmin Lee**, Byungjin Kim, Seungwook Kim, Minsu Cho, in _CVPR 2023_.
-
-*   [Self-Supervised Equivariant Learning for Oriented Keypoint Detection](https://arxiv.org/abs/2204.08613) [[code](https://github.com/bluedream1121/REKD)] \
-  **Jongmin Lee**, Byungjin Kim,  Minsu Cho, in _CVPR 2022_.
-
-*   [Self-supervised Learning of Image Scale and Orientation Estimation](https://www.bmvc2021-virtualconference.com/assets/papers/0836.pdf) [[code](https://github.com/bluedream1121/self-sca-ori)] \
-  **Jongmin Lee**, Yoonwoo Jeong,  Minsu Cho, in _BMVC 2021_.
-
-*   [Learning to Distill Convolutional Features Into Compact Local Descriptors](https://openaccess.thecvf.com/content/WACV2021/papers/Lee_Learning_to_Distill_Convolutional_Features_Into_Compact_Local_Descriptors_WACV_2021_paper.pdf) [[code](https://openaccess.thecvf.com/content/WACV2021/papers/Lee_Learning_to_Distill_Convolutional_Features_Into_Compact_Local_Descriptors_WACV_2021_paper.pdf)] \
-  **Jongmin Lee**, Yoonwoo Jeong, Seungwook Kim,  Juhong Min, Minsu Cho, in _WACV 2021_.
-
-*   [Learning to Compose Hypercolumns for Semantic Visual Correspondence](https://arxiv.org/abs/2007.10587) [[code](https://github.com/juhongm999/dhpf)] \
-   Juhong Min, **Jongmin Lee**, Jean Ponce,  Minsu Cho, in _ECCV 2020_.
-
-*   [SPair-71k: A Large-scale Benchmark for Semantic Correspondence](https://arxiv.org/abs/1908.10543) [[dataset](http://cvlab.postech.ac.kr/research/SPair-71k/)] \
-   Juhong Min, **Jongmin Lee**, Jean Ponce,  Minsu Cho, in _ArXiv 2019_.
-
-*   [Hyperpixel Flow: Semantic Correspondence with Multi-layer Neural Features](https://arxiv.org/abs/1908.06537) [[code](https://github.com/juhongm999/hpf)] [[dataset](http://cvlab.postech.ac.kr/research/SPair-71k/)] \
-    Juhong Min, **Jongmin Lee**, Jean Ponce,  Minsu Cho, in _ICCV 2019_.
-
-*   [Attentive Semantic Alignment with Offset-Aware Correlation Kernels](https://arxiv.org/abs/1808.02128) [[code](https://github.com/bluedream1121/A2Net)] \
-    Paul Hongsuck Seo, **Jongmin Lee**, Deunsol Jung, Bohyung Han, Minsu Cho, in _ECCV 2018_. -->
 
 * * *
 
