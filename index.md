@@ -121,7 +121,8 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 
 - [Pohang University of Science and Technology (POSTECH)](http://www.postech.ac.kr/), Pohang, Korea (Sep 2022 -- now)
   - MS Student, [Graudate School of Artificial Intelligence](https://ai.postech.ac.kr/)
-  - Advisor: Prof. [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/) 
+  - Advisor: Prof. [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/)
+  - Thesis: Video Summarization with Large Language Models
   -	GPA: 4.05 / 4.3
 
 - [San Francisco State University (SFSU)](https://www.tugraz.at/en/home/), California, U.S. (Jan 2020 -- May 2020)
