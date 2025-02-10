@@ -13,21 +13,22 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 
 ## Research Interests
 
+*   Generative AI (Generating synthetic image data)
+*   Video understanding with (Multi-modal) Large Language Models
 *   Image restoration and enhancement
 *   Burst Image Enhancement/Restoration
 *   Extremely Low-Light Image Enhancement
 *   Learning-based camera ISP
-*   Video understanding with Large Language Models (LLMs)
+
 
 <!-- * * * -->
 
-<!-- ## Industry Experience
+## Industry Experience
 
-* [Meta Reality Labs.](https://about.meta.com/realitylabs/), Burlingame, California, U.S.A.
-  * _Ph.D Research Scientist Intern_, Jul 2023 ~ Oct 2023
-    * Manager: Survi Kyal, Mentor: Fengting Yang
-    * Succeeded to achieve KPIs of Eye Tracking production model of Arcata project (XR Eyes)
-    * Improved gaze estimation accuracy in production model of Meta Quest using a single POR camera through invariant feature learning for a personalized, explainable ML Eyes
+* [GenGenAI](https://gengen.ai/), Seoul, South Korea.
+  * _Research and Development Sofware Engineer_, Jul 2023 ~ Oct 2023
+    * Developing generative AI models for photorealistic image synthesis in rare and complex scenarios to enhance computer vision model performance.
+    * Tackling the data deficiency problem in the AI industry by leveraging our domain-specific generative AI.
    
 <!--
     * Learning-based analytics research on human behavior for AR/VR device. (XR Eyes)
